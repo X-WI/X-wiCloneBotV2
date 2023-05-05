@@ -30,7 +30,7 @@ class Presets(object):
 📲 𝐂𝐥𝐨𝐧𝐞 𝐒𝐭𝐚𝐫𝐭𝐞𝐝 𝐀𝐭    - <b>{}</b>
 📌 𝐋𝐚𝐬𝐭 𝐔𝐩𝐝𝐚𝐭𝐞𝐝 𝐎𝐧   - <b>{}</b>
 
-🔰 <a href='t.me/RMProjects'><b>@RMProjects</b></a>     🏅 <a href='https://github.com/m4mallu/clonebot-ui'><b>@Github</b></a>
+🔰 <a href='t.me/Lx0980AI'><b>@Lx0980AI</b></a>     🏅 <a href='https://github.com/0AIB'><b>@Github</b></a>
     """
     INFO_CHAT_TYPES = """
 𝙔𝙤𝙪 𝙘𝙖𝙣 𝙚𝙣𝙩𝙚𝙧 𝙩𝙝𝙚 𝙛𝙤𝙡𝙡𝙤𝙬𝙞𝙣𝙜 𝙩𝙮𝙥𝙚𝙨:
@@ -121,7 +121,7 @@ H̶e̶r̶o̶k̶u̶ f̶r̶e̶e̶ d̶y̶n̶o̶s̶ r̶e̶s̶t̶a̶r̶t̶s̶ .
     INVALID_REPLY_MSG = "𝙄𝙣𝙫𝙖𝙡𝙞𝙙 𝙧𝙚𝙥𝙡𝙖𝙮 𝙢𝙚𝙨𝙨𝙖𝙜𝙚 ❗️"
     CNF_SOURCE_FIRST = "𝘾𝙤𝙣𝙛𝙞𝙜𝙪𝙧𝙚 𝙩𝙝𝙚 𝙨𝙤𝙪𝙧𝙘𝙚 𝙘𝙝𝙖𝙩 𝙛𝙞𝙧𝙨𝙩  ❗️"
     DELAY_OFF = "𝘿𝙚𝙡𝙖𝙮𝙚𝙙 𝙘𝙡𝙤𝙣𝙚 : 𝘿𝙚𝙖𝙘𝙩𝙞𝙫𝙖𝙩𝙚𝙙 🚫"
-    DELAY_ON = "𝘿𝙚𝙡𝙖𝙮𝙚𝙙 𝙘𝙡𝙤𝙣𝙚 : 𝘼𝙘𝙩𝙞𝙫𝙖𝙩𝙚𝙙 [𝟏𝟎 𝐬𝐞𝐜] ✅"
+    DELAY_ON = "𝘿𝙚𝙡𝙖𝙮𝙚𝙙 𝙘𝙡𝙤𝙣𝙚 : 𝘼𝙘𝙩𝙞𝙫𝙖𝙩𝙚𝙙 [𝟑𝟎 𝐬𝐞𝐜] ✅"
     ADD_DOC = "𝙁𝙞𝙡𝙚 𝙩𝙮𝙥𝙚 👉 𝘿𝙤𝙘𝙪𝙢𝙚𝙣𝙩 👈 𝙖𝙙𝙙𝙚𝙙"
     RM_DOC = "𝙁𝙞𝙡𝙚 𝙩𝙮𝙥𝙚 👉 𝘿𝙤𝙘𝙪𝙢𝙚𝙣𝙩 👈 𝙞𝙜𝙣𝙤𝙧𝙚𝙙 "
     ADD_VID = "𝙁𝙞𝙡𝙚 𝙩𝙮𝙥𝙚 👉 𝙑𝙞𝙙𝙚𝙤 👈 𝙖𝙙𝙙𝙚𝙙"
