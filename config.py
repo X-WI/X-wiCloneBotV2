@@ -12,22 +12,22 @@ logging.getLogger("pyrogram").setLevel(logging.WARNING)
 class Config(object):
 
     # Get a bot token from botfather
-    TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "")
+    TG_BOT_TOKEN = "5846668107:AAEvJ74J92awas9h9CYTMHPTsBbGl4mPJjY"
 
     # Get from my.telegram.org
-    APP_ID = int(os.environ.get("APP_ID", ""))
+    APP_ID = 21090748
 
     # Get from my.telegram.org
-    API_HASH = os.environ.get("API_HASH", "")
+    API_HASH = "1683713ec971f3366259f428e4aea107"
 
     # Authorized users to use this bot
-    AUTH_USERS = set(int(x) for x in os.environ.get("AUTH_USERS", "").split())
+    AUTH_USERS = set(int(x) for x in os.environ.get("AUTH_USERS", "5163706369").split())
 
     # Generate a user session string
-    TG_USER_SESSION = os.environ.get("TG_USER_SESSION", "")
+    TG_USER_SESSION = "BQC-84ergJSnJgRTe5IEke1Jbtrau7e0nohG6JNZ7BEaNRLGMNlqZ_ZhTRT75EpeD1zvFP5_HqD-Re3-avmoycUGsmvWULcgq43jb07kDhtzNdOgCaSAS90TMjw3qPrxle9gHhpH8e-7p9ihnLLeKnM3J_3qZ0p8Td_dz_Hwmj4x9eEEkWATZuigD2E_oMZcbqHSRhDRWj5Z5FbwetD1T7ALIu9lbgMCgFjoEPUWJn59txuftitgPqSBERIMs8ZZCOHubNjt9KWvNjIWbKTs3gBdsZ_PNoUJ6YZflBaRex0zW5tMzU1uypzOmI5jkhrfIxFLYYLPjXeh18dRazicS6sDAAAAAW8HBfYA"
 
     # Database URI
-    DB_URI = os.environ.get("DATABASE_URL", "")
+    DB_URI = "mongodb+srv://Cenwenex:WHx8S1A2mqgTRh29@cluster0.yffuuzl.mongodb.net/?retryWrites=true&w=majority"
 
 
 def LOGGER(name: str) -> logging.Logger:
