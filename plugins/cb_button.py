@@ -12,10 +12,7 @@ from library.buttons import reply_markup_types_button
 from plugins.file_index import index_target_chat, purge_media
 
 
-if bool(os.environ.get("ENV", False)):
-    from sample_config import Config
-else:
-    from config import Config
+from config import Config
 
 
 @Client.on_callback_query(filters.regex(r'^start_btn$'))
