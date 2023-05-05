@@ -3,12 +3,7 @@ import os
 
 from pyrogram import Client
 
-if os.environ.get("ENV", False):
-    from sample_config import Config
-    from sample_config import LOGGER
-else:
-    from config import Config
-    from config import LOGGER
+from config import Config, LOGGER
 
 class User(Client):
     def __init__(self):
